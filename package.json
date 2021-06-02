@@ -1,0 +1,16 @@
+{
+  "name": "readme-jp",
+  "version": "1.0.0",
+  "description": "Welcome to Monstar Lab Japan Technology Documentation.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "honkit": "^3.6.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yash Murty",
+  "license": "ISC"
+}
