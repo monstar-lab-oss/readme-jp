@@ -1,6 +1,10 @@
 # Readme JP
 
+![Build Badge](https://github.com/monstar-lab-oss/readme-jp/workflows/Honkit-Build-Action/badge.svg)
+
 Welcome to Monstar Lab Japan Technology Documentation.
+
+Github Page link: https://monstar-lab-oss.github.io/readme-jp/
 
 > NOTE: This repository is public. Please be mindful of sensitive data when you add new content to the pages in this repository.
 

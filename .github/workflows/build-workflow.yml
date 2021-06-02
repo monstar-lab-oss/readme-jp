@@ -1,4 +1,4 @@
-name: Flow-CI-Honkit
+name: Honkit-Build-Action
 
 on:
   push:
