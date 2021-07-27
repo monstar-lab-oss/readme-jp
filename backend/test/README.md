@@ -1,4 +1,6 @@
-# Test (language independent)
+# Testing Guidlines
+
+## Test (language independent)
 
 - Add at least one sample test for each layer (controller, service, repository etc) in the project so that the same pattern can be followed later on
 - Maintain coverage information in each project
