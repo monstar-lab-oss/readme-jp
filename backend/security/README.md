@@ -6,7 +6,7 @@
 - Make sure of SQL Injection, XSS, CSRF etc related handling with relation to the frameworks used
 - Virus scan, WAF => infra's responsibility
   - [TDB] link to infra skillmap
-- [TDB] How about internal Bug Bounty program
+- [TBD] How about internal Bug Bounty program
 - Access Control (ACL) is a hard topic.
   - [TDB] We must create awareness and consider workshop / discussion meetings.
 - Tools may not be able to discover design / business log flaws
