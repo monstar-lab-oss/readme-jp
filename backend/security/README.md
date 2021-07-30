@@ -8,7 +8,7 @@
   - [TBD] link to infra skillmap
 - [TBD] How about internal Bug Bounty program
 - Access Control (ACL) is a hard topic.
-  - [TDB] We must create awareness and consider workshop / discussion meetings.
+  - [TBD] We must create awareness and consider workshop / discussion meetings.
 - Tools may not be able to discover design / business log flaws
   - We must decide a way to fix this
   - [TDB] Possible checklist?
