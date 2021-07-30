@@ -11,6 +11,6 @@
   - [TBD] We must create awareness and consider workshop / discussion meetings.
 - Tools may not be able to discover design / business log flaws
   - We must decide a way to fix this
-  - [TDB] Possible checklist?
+  - [TBD] Possible checklist?
   - Biggest weakness is the webapp side modifying the request parameters.
   - [TBD] Consult to ML Security engineer
