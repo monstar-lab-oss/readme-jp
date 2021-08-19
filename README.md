@@ -2,7 +2,7 @@
 
 ![Build Badge](https://github.com/monstar-lab-oss/readme-jp/workflows/Honkit-Build-Action/badge.svg)
 
-Welcome to Monstar Lab Japan Technology Documentation.
+Welcome to Monstarlab Japan Technology Documentation.
 
 Github Page link: https://monstar-lab-oss.github.io/readme-jp/
 
