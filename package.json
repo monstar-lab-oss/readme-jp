@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Welcome to Monstarlab Japan Technology Documentation.",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "honkit": "^3.6.20"
   },
@@ -12,5 +11,13 @@
   },
   "keywords": [],
   "author": "Yash Murty",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/monstar-lab-oss/readme-jp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monstar-lab-oss/readme-jp/issues"
+  },
+  "homepage": "https://monstar-lab-oss.github.io/readme-jp/"
 }
