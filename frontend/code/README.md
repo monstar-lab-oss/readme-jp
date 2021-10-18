@@ -44,8 +44,6 @@ Will be arranged separately by the specialist member
     - Mocking etc
 - Create template
 
-- How to collaborate with global team
-  - #tech-monstack
 
 ### REACT
 
