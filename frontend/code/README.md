@@ -13,7 +13,6 @@
   - Issue/ PR templates
   - Use cases of Labels, Asignee etc
     - Use Template Repository (may be can be done from organization)
-    - https://github.com/organizations/monstar-lab/settings/repository-defaults
   - Branch naming/ PR title conventions
     - Include Jira ticket numbers etc
   - Branch restriction policy
