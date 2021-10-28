@@ -24,6 +24,7 @@
 ## Diagrams
 
 - Draw.io
+  - [Download](https://github.com/jgraph/drawio-desktop/releases)
 - Miro
 - PlantUML(C4)
   - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML)

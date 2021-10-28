@@ -18,9 +18,16 @@
   - Branch restriction policy
   - Reviewing policy
   - Commit message convention
+  - references
+    - [Project Team naming](https://tech-docs.monstar-lab.com/content/monstar-lab-group/readme/tech/git/github-project-team-naming-convention)
+    - [Repository naming](https://tech-docs.monstar-lab.com/content/monstar-lab-group/readme/tech/git/github-repository-naming-convention#Repository%20naming)
+    - [Using Git](https://tech-docs.monstar-lab.com/content/monstar-lab-group/readme/tech/git/using-git)
 
 ### Coding Style
 
+- US&EU standard
+  - [Folder Structure](https://github.com/monstar-lab-group/web-frontend/blob/master/docs/folder-structure.md)
+  - [Style Guide](https://github.com/monstar-lab-group/web-frontend/blob/master/docs/style-guide.md)
 - name should be UTF8, no trailing spaces etc
 - Lint
 - Check style with CI/CD tool
@@ -34,6 +41,14 @@
 
 Will be arranged separately by the specialist member
 
+- [admin-panel-template-reactjs](https://github.com/monstar-lab-oss/admin-panel-template-reactjs)
+  - react
+  - craco
+  - @ant-design
+- [reactjs-boilerplate](https://github.com/monstar-lab-oss/reactjs-boilerplate)
+  - react
+- [vuejs-boilerplate](https://github.com/monstar-lab-oss/vuejs-boilerplate)
+  - vuejs
 - Coding convention
 - Frameworks
   - For REST API
@@ -43,8 +58,3 @@ Will be arranged separately by the specialist member
   - Best practice
     - Mocking etc
 - Create template
-
-
-### REACT
-
-- [TBD] admin panel
