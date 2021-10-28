@@ -18,10 +18,6 @@
   - Branch restriction policy
   - Reviewing policy
   - Commit message convention
-  - references
-    - [Project Team naming](https://tech-docs.monstar-lab.com/content/monstar-lab-group/readme/tech/git/github-project-team-naming-convention)
-    - [Repository naming](https://tech-docs.monstar-lab.com/content/monstar-lab-group/readme/tech/git/github-repository-naming-convention#Repository%20naming)
-    - [Using Git](https://tech-docs.monstar-lab.com/content/monstar-lab-group/readme/tech/git/using-git)
 
 ### Coding Style
 
